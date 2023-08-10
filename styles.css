@@ -1,2 +1,28 @@
 /* Your CSS styles here! */
 
+body {
+  background-color: aquamarine;
+}
+p {
+  color: darkblue;
+  margin-left: 50px;
+}
+h1 {
+  color: blue;
+  font-family: Arial;
+  font-size: 300%;
+  margin: 50px;
+  text-align: center;
+}
+h4 {
+  color: blue;
+  font-family: Arial;
+  font-size: 100%;
+  text-align: center;
+}
+label {
+  color: blueviolet;
+}
+h3 {
+  margin-left: 10px;
+}
